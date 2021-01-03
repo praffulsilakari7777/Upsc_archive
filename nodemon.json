@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "prafful",
+        "DB_PASSWORD": "Prafful@123",
+        "DB_NAME": "Ncert",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}

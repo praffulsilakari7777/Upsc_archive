@@ -67,7 +67,7 @@ app.use((error, req, res, next) => {
   useNewUrlParser: true
  })
  .then(() => {
-   app.listen(process.env.PORT || 80);
+   app.listen(80);
    console.log('DB connection successful!');
  })
  .catch(err => {
